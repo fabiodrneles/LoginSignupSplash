@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSignupSplash</string>
+    <string name="ui_model">UI MODEL</string>
+    <string name="app_model">App Model</string>
+    <string name="welcome_back_to_your_app">Welcome Back to Your App</string>
+    <string name="all_on_one_you_need">all on-one you need</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="a_happy_girl">a happy girl</string>
+
+</resources>
